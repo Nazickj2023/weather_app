@@ -1,7 +1,7 @@
 
 # Weather application
 
-![big_screen.png](static/icon/big_screen.png)
+![big_screen.png](static/images/big_screen.png)
 
 Цей проєкт розроблено з метою ознайомлення із роботою API, принципом отримання даних від віддаленого серверу, вмінням їх обробляти, структурувати та застосовувати у своєму проєкті. А саме застосовувалось API такого веб-ресурсу як [OpenWeatherMap](https://openweathermap.org). Проєкт допоможе розібратися із роботою файлів JSON, як правильно отримувати та зберігати дані у файлах з типом .json. Та познайомити користувача з інтерфейсом застосунку розробленим за допомогою пакету [CustomTkinter](https://customtkinter.tomschimansky.com)
 
@@ -40,7 +40,7 @@ Download project
 #### 1. Склонувати з GitHub
 
 ```bash
-git clone https://github.com/your-username/WeatherApp.git
+git clone https://github.com/Nazickj2023/weather_app.git
 ```
 
 *Або перегляньте коротке відео:*
