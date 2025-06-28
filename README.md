@@ -149,7 +149,6 @@ graph TD
   A -->|images| I[weather icons]
 ```
 ---
-
 ## 🐍 `main.py`
 
 ```python
